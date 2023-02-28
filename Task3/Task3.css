@@ -1,0 +1,39 @@
+body{
+  background-color: #439A97;
+
+}
+.container {
+    max-width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 15%;
+    background-color: #97DECE;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  label {
+    display: block;
+    font-size: 1.25rem;
+    margin-top: 1.1rem;
+  }
+  
+  input, select {
+    font-size: 1.25rem;
+    margin: 1rem 0;
+    padding: 0.52rem;
+  }
+  
+  button {
+    font-size: 1.25rem;
+    padding: 0.52rem;
+    background-color: #008CBA;
+  }
+  
+  p {
+    font-size: 1.52rem;
+    margin-top: 1rem;
+  }
+  
